@@ -1,0 +1,10 @@
+roleta
+[
+    {'menor Distancia': 61.13744551656402, 'lista': 
+            ['Budapest', 'Tokyo', 'Gliwice', 'Cairo', 'Rome', 'Krakow', 'Alexandria', 'Paris', 'Berlin', 'Rio']}, 
+    {'maior Distancia': 65.87802430865098, 'lista':
+            ['Paris', 'Rome', 'Cairo', 'Gliwice', 'Budapest', 'Berlin', 'Rio', 'Tokyo', 'Krakow', 'Alexandria']}, 
+    {'lista de cidades que mais repete': 249, 'lista':
+            ['Paris', 'Alexandria', 'Krakow', 'Tokyo', 'Rome', 'Cairo', 'Gliwice', 'Budapest', 'Rio', 'Berlin']}
+]
+torneio
